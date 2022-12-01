@@ -4,3 +4,4 @@ Basic and mostly asked c codes
 ->nCr of numbers entered by uuser.
 ->Factorial of any number.
 -> Comonly asked Pattern.
+-> Simple Queue in C
